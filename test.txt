@@ -1,0 +1,49 @@
+﻿
+Host Name:                 DESKTOP-L69ER6Q
+OS Name:                   Microsoft Windows 10 Enterprise Evaluation
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Patchops-testing
+Registered Organization:   
+Product ID:                00329-20000-00001-AA015
+Original Install Date:     12/29/2024, 4:18:34 AM
+System Boot Time:          12/29/2024, 6:08:58 PM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware20,1
+System Type:               x64-based PC
+Processor(s):              2 Processor(s) Installed.
+                           [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3294 Mhz
+                           [02]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3294 Mhz
+BIOS Version:              VMware, Inc. VMW201.00V.24006586.B64.2406042154, 6/4/2024
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              00004009
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     4,095 MB
+Available Physical Memory: 1,702 MB
+Virtual Memory: Max Size:  5,503 MB
+Virtual Memory: Available: 2,653 MB
+Virtual Memory: In Use:    2,850 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-L69ER6Q
+Hotfix(s):                 6 Hotfix(s) Installed.
+                           [01]: KB5017022
+                           [02]: KB5015684
+                           [03]: KB5048652
+                           [04]: KB5014032
+                           [05]: KB5016705
+                           [06]: KB5046823
+Network Card(s):           1 NIC(s) Installed.
+                           [01]: Intel(R) 82574L Gigabit Network Connection
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.74.254
+                                 IP address(es)
+                                 [01]: 192.168.74.129
+                                 [02]: fe80::dc6e:853c:aaea:df00
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
